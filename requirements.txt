@@ -9,3 +9,4 @@ shap
 streamlit
 joblib
 jupyter
+streamlit==1.38.0
